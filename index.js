@@ -7,7 +7,7 @@ console.log("Here's your header:", header)
 
 
 /***** Deliverable 3 *****/
-// console.log("PLAYERS array looks like this:", PLAYERS)
+ console.log("PLAYERS array looks like this:", PLAYERS)
 
 
 /***** Deliverable 4 *****/
